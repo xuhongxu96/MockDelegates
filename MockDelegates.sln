@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockDelegates", "MockDelegates\MockDelegates.csproj", "{D305F286-D9B4-4CAE-8B76-97FA6ECBE0B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockDelegates.Vsix", "MockDelegates.Vsix\MockDelegates.Vsix.csproj", "{C92FCB09-702F-42FC-A7B7-50DAEA05B9B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D305F286-D9B4-4CAE-8B76-97FA6ECBE0B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D305F286-D9B4-4CAE-8B76-97FA6ECBE0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D305F286-D9B4-4CAE-8B76-97FA6ECBE0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D305F286-D9B4-4CAE-8B76-97FA6ECBE0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92FCB09-702F-42FC-A7B7-50DAEA05B9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92FCB09-702F-42FC-A7B7-50DAEA05B9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92FCB09-702F-42FC-A7B7-50DAEA05B9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92FCB09-702F-42FC-A7B7-50DAEA05B9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D2671F-73AB-4017-A738-A9FB84136D9C}
+	EndGlobalSection
+EndGlobal
